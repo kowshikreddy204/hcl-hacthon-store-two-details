@@ -1,0 +1,11 @@
+Order ID,Order Date,Store ID,Product ID,Product Category,Quantity Sold,Unit Price
+3001,2024-03-01,S002,P301,Electronics,1,20000
+3002,01-03-2024,S002,P302,Clothing,2,1800
+3003,2024/03/02,S002,P303,Grocery,6,220
+3004,2024-15-03,S002,P304,Furniture,1,12000
+3005,,S002,P305,Electronics,3,25000
+3006,2024-03-03,S002,P306,Clothing,-1,1600
+3007,2024-03-04,S002,P307,Grocery,5,
+3008,2024-03-05,S002,P308,Electronics,2,not_available
+3009,2024-03-06,S002,P309,Clothing,abc,1400
+3010,2024-03-07,S002,P310,Grocery,4,300
